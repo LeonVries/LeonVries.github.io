@@ -1,2 +1,0 @@
-# LeonVries.github.io
-mywebsite
